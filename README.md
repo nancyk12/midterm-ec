@@ -8,4 +8,4 @@ Fork/Clone and submit by the end of the weekend for credit!
   * [smallestNumber, secondSmallestNumber]
   * If the array is shorter than length 2, return undefined to the user
   * You can assume that every number in the array will be unique
-  * Do not use .sort()
+  * Do not use .sort() or any other method that we have not discussed in class
